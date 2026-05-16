@@ -5,7 +5,9 @@
     "owner": "Schckrabby",
     "repo": "ionic-test"
   },
-  "ios": {},
+  "ios": {
+    "path": "ios/"
+  },
   "flutter": {
     "watch": {}
   },
