@@ -6,7 +6,7 @@
     "repo": "ionic-test"
   },
   "ios": {
-    "path": "ios/"
+    "path": "ios"
   },
   "flutter": {
     "watch": {}
