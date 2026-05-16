@@ -1,0 +1,14 @@
+{
+  "project": "photo-gallery",
+  "platform": "ios",
+  "github": {
+    "owner": "Schckrabby",
+    "repo": "ionic-test"
+  },
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
